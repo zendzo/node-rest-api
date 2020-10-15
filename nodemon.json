@@ -1,0 +1,8 @@
+{
+  "env": {
+    "PORT": 3000,
+    "MONGO_ATLAS_PW": "mustofa",
+    "MONGO_ATLAS_DB": "shop",
+    "JWT_KEY": "secret"
+  }
+}
